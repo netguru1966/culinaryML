@@ -1,5 +1,14 @@
-<h1 align="right">Vanay Henry MBA</h1>
-<h2 align="center"><span style="color:red;">Turning DATA in DOING !!!!</span></h2>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Vanay Henry, MBA</h1>
+<h3 align="center">A passionate Cybersecurity ML Student from Chicago</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<h2 align="left">City Colleges of Chicago is proud to announce the expansion of a robust partnership with Amazon Web Services (AWS) to launch a cutting-edge Machine Learning Program. This collaboration is a significant milestone in the system’s commitment to providing students with the skills and knowledge they need to thrive in the digital age.</h2>
+
+
+<h2 align="left">As technology continues to rapidly evolve, machine learning has emerged as a transformative force across industries. Recognizing the growing demand for expertise in this field, City Colleges of Chicago has taken a proactive approach by joining forces with AWS, a global leader in cloud computing and artificial intelligence.</h2>
+
+<h2 align="left">Through this collaboration, the Machine Learning University at City Colleges of Chicago will offer students a comprehensive and hands-on learning experience, equipping them with the tools to harness the power of machine learning and solve complex real-world problems. This program will empower students to explore new horizons, embrace innovation, and prepare for high-demand careers in a data-driven world.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netguru1966&label=Profile%20views&color=0e75b6&style=flat" alt="netguru1966" /> </p>
 
