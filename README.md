@@ -1,15 +1,42 @@
-<img align="center" alt="Coding" width="1000" src="images/chef.jpg">
-<h1 align="center">Hi 👋, I'm Vanay Henry, MBA</h1>
-<h3 align="center">A passionate Cybersecurity ML Student from Chicago</h3>
+<img align="left" alt="Coding" height="500" width="500" src="images/data_cloud.png">
+<img align="center" alt="Coding" height="500" width="400" src="images/chef.jpg">
+<h1 align="center">CulinaryML</h1>
+<h2 align="center">Discover the DELICIOUS possibilities of Machine Learning (ML)</h2>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
+<h3 align="left">Machine Learning is the act of analyzing large volumes of data using advanced data analytics tools and techniques. Big data, can be structured or unstructured based on their characteristics including the 3Vs:
 
-<h2 align="left">City Colleges of Chicago is proud to announce the expansion of a robust partnership with Amazon Web Services (AWS) to launch a cutting-edge Machine Learning Program. This collaboration is a significant milestone in the system’s commitment to providing students with the skills and knowledge they need to thrive in the digital age.</h2>
+ - Volume
+ - Velocity
+ - Variety
+
+Data is all around us — from our social media interactions, emails, traffic data or financial transactions. To make sense of all that data, we use advanced techniques and tools to extract unique insights, draw patterns and predict trends. 
+
+Some of the big data analytics techniques are: 
+
+  * Machine learning is an aspect of artificial intelligence that allows computers to learn and imitate past experiences and human behavior. For it to work, a large volume of data has to be fed into the system to boost its accuracy level to near perfection.
+  * Predictive analysis, as the name implies, uses historical data and statistical algorithms to forecast future events.
+  * Deep Learning involves searching through large datasets to unearth patterns, make connections and extract insights.
+  * Natural Language Processing uses computer programs to understand and interpret human language, whether as text or voice.
+
+In Machine Learning, you don’t only analyze data; you also develop prediction models, create visualizations, and communicate insights to stakeholders.</h3>
+
+###############################################################################################################################################################
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
 
 
-<h2 align="left">As technology continues to rapidly evolve, machine learning has emerged as a transformative force across industries. Recognizing the growing demand for expertise in this field, City Colleges of Chicago has taken a proactive approach by joining forces with AWS, a global leader in cloud computing and artificial intelligence.</h2>
+<h1 align="left">Data Culinary Framework</h1>
 
-<h2 align="left">Through this collaboration, the Machine Learning University at City Colleges of Chicago will offer students a comprehensive and hands-on learning experience, equipping them with the tools to harness the power of machine learning and solve complex real-world problems. This program will empower students to explore new horizons, embrace innovation, and prepare for high-demand careers in a data-driven world.</h2>
+<h2 align="left">
+The DIKW model suggests that data can be transformed into information by adding context and structure. This information can then be used to acquire knowledge, understanding, and insight about a particular subject.
+
+Finally, wisdom is the highest level of the pyramid, representing the ability to use knowledge and experience to make sound decisions and judgments.
+
+Hence, “D” – data, “I” – information, “K” – knowledge, and “W” – wisdom.
+
+However, the model is overly simplistic and does not reflect how knowledge is created and shared or the many factors influencing how people understand and use information.</h2>
+
+###############################################################################################################################################################
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netguru1966&label=Profile%20views&color=0e75b6&style=flat" alt="netguru1966" /> </p>
 
