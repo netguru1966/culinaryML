@@ -26,7 +26,9 @@ In Machine Learning, you don’t only analyze data; you also develop prediction 
 
 
 <h1 align="left">Data Culinary Framework</h1>
-<p align="left"> <img src="https://www.datacamp.com/cheat-sheet/the-data-information-knowledge-wisdom-pyramid" /> </p
+<p>
+  <a href="https://www.datacamp.com/cheat-sheet/the-data-information-knowledge-wisdom-pyramid">DIKW Framework</a>
+</p>
 
 <h3 align="left">
 The DIKW model suggests that data can be transformed into information by adding context and structure. This information can then be used to acquire knowledge, understanding, and insight about a particular subject.
