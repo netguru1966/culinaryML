@@ -1,5 +1,5 @@
 <img align="left" alt="Coding" height="500" width="500" src="images/data_cloud.png">
-<img align="center" alt="Coding" height="500" width="400" src="images/chef.jpg">
+<img align="center" alt="Coding" height="300" width="400" src="images/chef.jpg">
 <h1 align="center">CulinaryML</h1>
 <h2 align="center">Discover the DELICIOUS possibilities of Machine Learning (ML)</h2>
 
@@ -22,7 +22,7 @@ In Machine Learning, you don’t only analyze data; you also develop prediction 
 
 ##################################################################################################
 
-<img align="center" alt="Coding" height="500" width="400" src="images/dikw_pyramid.png">
+<img align="center" alt="Coding" width="800" src="images/dikw_pyramid.png">
 
 
 <h1 align="left">Data Culinary Framework</h1>
