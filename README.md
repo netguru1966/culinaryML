@@ -3,8 +3,6 @@
 <h1 align="center">CulinaryML</h1>
 <h2 align="center">Discover the DELICIOUS possibilities of Machine Learning (ML)</h2>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
-
 <h3 align="left">Machine Learning is the act of analyzing large volumes of data using advanced data analytics tools and techniques. Big data, can be structured or unstructured based on their characteristics including the 3Vs:
 
  - Volume
@@ -22,10 +20,23 @@ Some of the big data analytics techniques are:
 
 In Machine Learning, you don’t only analyze data; you also develop prediction models, create visualizations, and communicate insights to stakeholders.</h3>
 
+###############################################################################################################################################################
 
-<h2 align="left">As technology continues to rapidly evolve, machine learning has emerged as a transformative force across industries. Recognizing the growing demand for expertise in this field, City Colleges of Chicago has taken a proactive approach by joining forces with AWS, a global leader in cloud computing and artificial intelligence.</h2>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
 
-<h2 align="left">Through this collaboration, the Machine Learning University at City Colleges of Chicago will offer students a comprehensive and hands-on learning experience, equipping them with the tools to harness the power of machine learning and solve complex real-world problems. This program will empower students to explore new horizons, embrace innovation, and prepare for high-demand careers in a data-driven world.</h2>
+
+<h1 align="left">Data Culinary Framework</h1>
+
+<h2 align="left">
+The DIKW model suggests that data can be transformed into information by adding context and structure. This information can then be used to acquire knowledge, understanding, and insight about a particular subject.
+
+Finally, wisdom is the highest level of the pyramid, representing the ability to use knowledge and experience to make sound decisions and judgments.
+
+Hence, “D” – data, “I” – information, “K” – knowledge, and “W” – wisdom.
+
+However, the model is overly simplistic and does not reflect how knowledge is created and shared or the many factors influencing how people understand and use information.</h2>
+
+###############################################################################################################################################################
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netguru1966&label=Profile%20views&color=0e75b6&style=flat" alt="netguru1966" /> </p>
 
