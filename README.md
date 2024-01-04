@@ -1,5 +1,5 @@
 <img align="left" alt="Coding" height="500" width="500" src="images/data_cloud.png">
-<img align="center" alt="Coding" height="300" width="400" src="images/chef.jpg">
+<img align="center" alt="Coding" height="300" width="300" src="images/chef.jpg">
 <h1 align="center">CulinaryML</h1>
 <h2 align="center">Discover the DELICIOUS possibilities of Machine Learning (ML)</h2>
 
