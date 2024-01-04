@@ -20,9 +20,9 @@ Some of the big data analytics techniques are:
 
 In Machine Learning, you don’t only analyze data; you also develop prediction models, create visualizations, and communicate insights to stakeholders.</h3>
 
-##################################################################################################
+##################################################################################
 
-<img align="center" alt="Coding" width="800" src="images/dikw_pyramid.png">
+<img align="center" alt="Coding" width="1000" src="images/dikw_pyramid.png">
 
 
 <h1 align="left">Data Culinary Framework</h1>
@@ -36,7 +36,7 @@ Hence, “D” – data, “I” – information, “K” – knowledge, and “
 
 However, the model is overly simplistic and does not reflect how knowledge is created and shared or the many factors influencing how people understand and use information.</h2>
 
-#################################################################################################
+##################################################################################
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
 
