@@ -1,6 +1,7 @@
-<img align="center" alt="Coding" width="1000" src="images/chef.jpg">
-<h1 align="center">Hi 👋, I'm Vanay Henry, MBA</h1>
-<h3 align="center">A passionate Cybersecurity ML Student from Chicago</h3>
+<img align="left" alt="Coding" height="500" width="500" src="images/data_cloud.png">
+<img align="center" alt="Coding" height="500" width="400" src="images/chef.jpg">
+<h1 align="center">CulinaryML</h1>
+<h3 align="center">Discover the DELICIOUS possibilities of Machine Learning (ML)</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
 
