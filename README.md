@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="chef.jpg">
+<img align="center" alt="Coding" width="1000" src="images/chef.jpg">
 <h1 align="center">Hi 👋, I'm Vanay Henry, MBA</h1>
 <h3 align="center">A passionate Cybersecurity ML Student from Chicago</h3>
 
