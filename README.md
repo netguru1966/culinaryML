@@ -20,9 +20,9 @@ Some of the big data analytics techniques are:
 
 In Machine Learning, you don’t only analyze data; you also develop prediction models, create visualizations, and communicate insights to stakeholders.</h3>
 
-###############################################################################################################################################################
+#############################################################################################################
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
+<img align="center" alt="Coding" height="500" width="400" src="images/dikw_pyramid.jpg">
 
 
 <h1 align="left">Data Culinary Framework</h1>
@@ -36,7 +36,9 @@ Hence, “D” – data, “I” – information, “K” – knowledge, and “
 
 However, the model is overly simplistic and does not reflect how knowledge is created and shared or the many factors influencing how people understand and use information.</h2>
 
-###############################################################################################################################################################
+#############################################################################################################
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netguru1966&label=Profile%20views&color=0e75b6&style=flat" alt="netguru1966" /> </p>
 
