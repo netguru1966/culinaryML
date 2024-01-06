@@ -25,7 +25,7 @@ In Machine Learning, you don’t only analyze data; you also develop prediction 
 <img align="center" alt="Coding" width="1000" src="images/dikw_pyramid.png">
 
 
-<h1 align="left">Data Culinary Framework</h1>
+<h1 align="left">CulinaryML Data Framework</h1>
 <p>
   <a href="https://www.datacamp.com/cheat-sheet/the-data-information-knowledge-wisdom-pyramid">DIKW Framework</a>
 </p>
@@ -50,6 +50,13 @@ Some of the main reasons why the DIKW model is flawed include the following:
 Overall, the DIKW model is limited in its ability to fully capture the complexity and nuances of how information and knowledge are created, used, and understood in real-world contexts.</h3>
 
 ####################################################################################
+
+<h1 align="left">CulinaryML Data Process</h1>
+<p>
+  <a href="https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0">Machine Learning</a>
+</p>
+
+<h3 align="left">
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
 
