@@ -3,7 +3,7 @@
 <h1 align="center">CulinaryML</h1>
 <h2 align="center">Discover the DELICIOUS possibilities of Machine Learning (ML)</h2>
 
-<h3 align="left">Machine Learning is the act of analyzing large volumes of data using advanced data analytics tools and techniques. Big data, can be structured or unstructured based on their characteristics including the 3Vs:
+<h4 align="left">Machine Learning is the act of analyzing large volumes of data using advanced data analytics tools and techniques. Big data, can be structured or unstructured based on their characteristics including the 3Vs:
 
  - Volume
  - Velocity
@@ -18,7 +18,7 @@ Some of the big data analytics techniques are:
   * Deep Learning involves searching through large datasets to unearth patterns, make connections and extract insights.
   * Natural Language Processing uses computer programs to understand and interpret human language, whether as text or voice.
 
-In Machine Learning, you don’t only analyze data; you also develop prediction models, create visualizations, and communicate insights to stakeholders.</h3>
+In Machine Learning, you don’t only analyze data; you also develop prediction models, create visualizations, and communicate insights to stakeholders.</h4>
 
 ####################################################################################
 
@@ -30,7 +30,7 @@ In Machine Learning, you don’t only analyze data; you also develop prediction 
   <a href="https://www.datacamp.com/cheat-sheet/the-data-information-knowledge-wisdom-pyramid">DIKW Framework</a>
 </p>
 
-<h3 align="left">
+<h4 align="left">
 The DIKW model suggests that data can be transformed into information by adding context and structure. This information can then be used to acquire knowledge, understanding, and insight about a particular subject.
 
 Finally, wisdom is the highest level of the pyramid, representing the ability to use knowledge and experience to make sound decisions and judgments.
@@ -47,7 +47,7 @@ Some of the main reasons why the DIKW model is flawed include the following:
    * Lack of consideration for power and politics: The model does not consider the role of power and politics in shaping and limiting access to data, information, knowledge, and wisdom.
    * Static nature: The model does not consider the dynamic nature of knowledge and wisdom and how they change over time and with new information.
 
-Overall, the DIKW model is limited in its ability to fully capture the complexity and nuances of how information and knowledge are created, used, and understood in real-world contexts.</h3>
+Overall, the DIKW model is limited in its ability to fully capture the complexity and nuances of how information and knowledge are created, used, and understood in real-world contexts.</h4>
 
 ####################################################################################
 
@@ -59,6 +59,31 @@ Overall, the DIKW model is limited in its ability to fully capture the complexit
 <h3 align="left">
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
+
+<h3 align="left">
+
+<img align="center" alt="Coding" width="500" src="images/data_terminal.png">
+
+
+<h2 align="left">Terminology</h2>
+
+   * Dataset: A set of data examples, that contain features important to solving the problem.
+   * Features: Important pieces of data that help us understand a problem. These are fed in to a Machine Learning algorithm to help it learn.
+   * Model: The representation (internal model) of a phenomenon that a Machine Learning algorithm has learnt. It learns this from the data it is shown during training. The model is the output you get after training an algorithm. For example, a decision tree algorithm would be trained and produce a decision tree model.</h3>
+
+<img align="center" alt="Coding" width="500" src="images/data_process.png">
+
+
+<h2 align="left">Process</h2>
+
+   1. Data Collection: Collect the data that the algorithm will learn from.
+   2. Data Preparation: Format and engineer the data into the optimal format, extracting important features and performing dimensionality reduction.
+   3. Training: Also known as the fitting stage, this is where the Machine Learning algorithm actually learns by showing it the data that has been collected and prepared.
+   4. Evaluation: Test the model to see how well it performs.
+   5. Tuning: Fine tune the model to maximise it’s performance.
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netguru1966&label=Profile%20views&color=0e75b6&style=flat" alt="netguru1966" /> </p>
 
