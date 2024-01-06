@@ -1,5 +1,5 @@
 <img align="left" alt="Coding" height="500" width="500" src="images/data_cloud.png">
-<img align="center" alt="Coding" height="500" width="400" src="images/chef.jpg">
+<img align="center" alt="Coding" height="500" width="300" src="images/chef.jpg">
 <h1 align="center">CulinaryML</h1>
 <h2 align="center">Discover the DELICIOUS possibilities of Machine Learning (ML)</h2>
 
@@ -20,23 +20,45 @@ Some of the big data analytics techniques are:
 
 In Machine Learning, you don’t only analyze data; you also develop prediction models, create visualizations, and communicate insights to stakeholders.</h3>
 
-###############################################################################################################################################################
+####################################################################################
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
+<img align="center" alt="Coding" width="1000" src="images/dikw_pyramid.png">
 
 
-<h1 align="left">Data Culinary Framework</h1>
+<h1 align="left">CulinaryML Data Framework</h1>
+<p>
+  <a href="https://www.datacamp.com/cheat-sheet/the-data-information-knowledge-wisdom-pyramid">DIKW Framework</a>
+</p>
 
-<h2 align="left">
+<h3 align="left">
 The DIKW model suggests that data can be transformed into information by adding context and structure. This information can then be used to acquire knowledge, understanding, and insight about a particular subject.
 
 Finally, wisdom is the highest level of the pyramid, representing the ability to use knowledge and experience to make sound decisions and judgments.
 
 Hence, “D” – data, “I” – information, “K” – knowledge, and “W” – wisdom.
 
-However, the model is overly simplistic and does not reflect how knowledge is created and shared or the many factors influencing how people understand and use information.</h2>
+However, the model is overly simplistic and does not reflect how knowledge is created and shared or the many factors influencing how people understand and use information.
 
-###############################################################################################################################################################
+Some of the main reasons why the DIKW model is flawed include the following:
+
+   * Linear progression: The model assumes a linear progression from data to information to knowledge to wisdom, which is not always accurate in real-world scenarios.
+   * Lack of context: The model does not account for the context in which data, information, knowledge, and wisdom are used, which can significantly affect their meaning and value.
+   * Ignores emotions, subjectivity, and cognitive bias: The model does not consider the role of emotions, subjective human experience, and cognitive bias, which can also play a significant role in understanding and using data, information, knowledge, and wisdom.
+   * Lack of consideration for power and politics: The model does not consider the role of power and politics in shaping and limiting access to data, information, knowledge, and wisdom.
+   * Static nature: The model does not consider the dynamic nature of knowledge and wisdom and how they change over time and with new information.
+
+Overall, the DIKW model is limited in its ability to fully capture the complexity and nuances of how information and knowledge are created, used, and understood in real-world contexts.</h3>
+
+####################################################################################
+
+<h1 align="left">CulinaryML Data Process</h1>
+<p>
+  <a href="https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0">Machine Learning</a>
+</p>
+
+<h3 align="left">
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Fa69v6AU6oN4i0DZZc/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netguru1966&label=Profile%20views&color=0e75b6&style=flat" alt="netguru1966" /> </p>
 
