@@ -1,5 +1,5 @@
-<img align="left" alt="Coding" height="500" width="500" src="images/data_cloud.png">
-<img align="center" alt="Coding" height="500" width="300" src="images/chef.jpg">
+<img align="left" alt="Coding" height="500" width="1000" src="images/data_cloud.png">
+
 <h1 align="center">CulinaryML</h1>
 <h2 align="center">Discover the DELICIOUS possibilities of Machine Learning (ML)</h2>
 
@@ -22,7 +22,9 @@ In Machine Learning, you don’t only analyze data; you also develop prediction 
 
 ####################################################################################
 
-<img align="center" alt="Coding" width="1000" src="images/dikw_pyramid.png">
+<img align="left" alt="Coding" height="500" width="300" src="images/dikw_pyramid.png">
+
+<img align="right" alt="Coding" height="500" width="300" src="images/chef.jpg">
 
 
 <h1 align="left">CulinaryML Data Framework</h1>
@@ -71,7 +73,7 @@ Overall, the DIKW model is limited in its ability to fully capture the complexit
    * Features: Important pieces of data that help us understand a problem. These are fed in to a Machine Learning algorithm to help it learn.
    * Model: The representation (internal model) of a phenomenon that a Machine Learning algorithm has learnt. It learns this from the data it is shown during training. The model is the output you get after training an algorithm. For example, a decision tree algorithm would be trained and produce a decision tree model.</h3>
 
-<img align="center" alt="Coding" width="500" src="images/data_process.png">
+<img align="center" alt="Coding" width="1000" src="images/data_process.png">
 
 
 <h2 align="left">Process</h2>
