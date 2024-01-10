@@ -54,6 +54,9 @@ Overall, the DIKW model is limited in its ability to fully capture the complexit
 ####################################################################################
 
 <h1 align="left">CulinaryML Data Process</h1>
+
+<img align="center" alt="Coding" width="1000" src="images/mlprocess.png">
+
 <p>
   <a href="https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0">Machine Learning</a>
 </p>
