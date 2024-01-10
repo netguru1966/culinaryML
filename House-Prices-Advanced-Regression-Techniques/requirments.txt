@@ -1,9 +1,0 @@
-sklearn
-matplotlib
-pandas
-numpy
-requests
--U scikit-learn
-missingno
-optuna
-lazypredict
